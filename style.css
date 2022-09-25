@@ -333,3 +333,7 @@ margin-right:  50px;}
 #prodetails .single-pro-det span{
     line-height: 25px;
 }
+a{
+    text-decoration: dashed;
+    color:#088178;
+}
